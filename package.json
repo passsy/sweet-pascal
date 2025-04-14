@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./out/extension.js",
   "contributes": {
     "themes": [
       {
@@ -17,5 +21,20 @@
         "path": "./themes/sweet-pascal-color-theme.json"
       }
     ]
-  }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.x",
+    "@types/vscode": "^1.99.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [],
+  "author": "Pascal Welsch",
+  "license": "MIT"
 }
