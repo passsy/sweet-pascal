@@ -2,14 +2,20 @@
   "name": "sweet-pascal",
   "displayName": "Sweet Pascal",
   "description": "A dark theme with pastel colors, inspired by Mario Kart 8 Deluxe's Sweet Sweet Canyon track.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Pascal Welsch",
   "publisher": "PascalWelsch",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.26.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "pastel",
+    "sweet",
+    "theme"
   ],
   "activationEvents": [
     "onStartupFinished"
@@ -33,9 +39,8 @@
   },
   "devDependencies": {
     "@types/node": "^16.x",
-    "@types/vscode": "^1.99.0",
+    "@types/vscode": "^1.26.0",
     "typescript": "^5.0.0"
   },
-  "keywords": [],
   "license": "MIT"
 }
