@@ -375,6 +375,27 @@
         "foreground": "#e5e5e5",
         "fontStyle": "strikethrough"
       }
+    },
+    {
+      "name": "YAML Unquoted String",
+      "scope": ["string.unquoted.plain.out.yaml"],
+      "settings": {
+        "foreground": "#E5E5E5"
+      }
+    },
+    {
+      "name": "JSON Property Names",
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "foreground": "#e5e5e5"
+      }
+    },
+    {
+      "name": "JSON Structure",
+      "scope": ["meta.structure.dictionary.json", "source.json"],
+      "settings": {
+        "foreground": "#e5e5e5"
+      }
     }
   ]
 }
