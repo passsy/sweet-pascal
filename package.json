@@ -5,6 +5,10 @@
   "version": "0.0.3",
   "author": "Pascal Welsch",
   "publisher": "PascalWelsch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passsy/sweet-pascal"
+  },
   "engines": {
     "vscode": "^1.26.0"
   },
