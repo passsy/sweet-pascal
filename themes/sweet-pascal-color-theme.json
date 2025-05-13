@@ -164,8 +164,8 @@
         "variable.language.super"
       ],
       "settings": {
-        "foreground": "#9ec2bf",
-        "fontStyle": "italic"
+        "foreground": "#e5b597",
+        "fontStyle": "bold"
       }
     },
     {
