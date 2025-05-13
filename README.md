@@ -2,6 +2,14 @@
 
 A dark theme with pastel colors, inspired by Mario Kart 8 Deluxe's [Sweet Sweet Canyon](https://mariokart.fandom.com/wiki/Sweet_Sweet_Canyon) track.
 
+![Sweet Pascal Screenshot](https://github.com/user-attachments/assets/879cedef-e780-4cc9-9efd-bec6fbba3fb3)
+
+## Installation
+
+Search for "sweet-pascal" in the Extensions view.
+
+Or install it from Visual Studio Marketplace: [Sweet Pascal](https://marketplace.cursorapi.com/items?itemName=PascalWelsch.sweet-pascal)
+
 ## License
 
 ```txt
