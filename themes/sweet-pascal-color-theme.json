@@ -2,7 +2,7 @@
   "name": "Sweet Pascal",
   "type": "dark",
   "colors": {
-    "editor.background": "#2b2b2b",
+    "editor.background": "#222424",
     "editor.foreground": "#e5e5e5",
     "editorGutter.background": "#222424",
     "editorLineNumber.foreground": "#4a4a4a",
