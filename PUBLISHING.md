@@ -8,7 +8,21 @@
    "version": "x.x.x"
    ```
 
-2. Publish the extension:
+2. Update the changelog and commit all changes:
+
+   ```
+   git add package.json CHANGELOG.md
+   git commit -m "Prepare x.x.x release: update version and changelog"
+   ```
+
+3. Create a git tag for the release:
+
+   ```
+   git tag v0.0.x
+   git push origin v0.0.x
+   ```
+
+4. Publish the extension:
 
    ```
    vsce publish
@@ -28,16 +42,10 @@
 
    This will create a `.vsix` file in your project directory.
 
-3. Test the packaged extension:
+5. Test the packaged extension:
 
    ```
    code --install-extension sweet-pascal-x.x.x.vsix
-   ```
-
-4. Create a git tag for the release:
-   ```
-   git tag v0.0.x
-   git push origin v0.0.x
    ```
 
 ## Troubleshooting
