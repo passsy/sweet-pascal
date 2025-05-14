@@ -8,6 +8,13 @@
     "editorLineNumber.foreground": "#4a4a4a",
     "editor.lineHighlightBackground": "#171818",
     "editorCursor.foreground": "#777d81",
+    "editor.selectionHighlightBackground": "#193f3cb1",
+    "editor.selectionHighlightBorder": "#7ca29f6e",
+    "editor.wordHighlightBackground": "#4c80aa60",
+    "editor.wordHighlightBorder": "#52616d51",
+    "editor.wordHighlightStrongBackground": "#6ba6d390",
+    "editor.wordHighlightStrongBorder": "#89a8c088",
+
     "editor.selectionBackground": "#1b3139",
     "editorIndentGuide.background1": "#3d3d3d",
     "editorIndentGuide.activeBackground1": "#cccccf",
