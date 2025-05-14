@@ -14,6 +14,8 @@
     "editorWhitespace.foreground": "#ff2457",
     "editorRuler.foreground": "#616161",
     "editorOverviewRuler.border": "#27292a",
+    "editorInlayHint.background": "#34383800",
+    "editorInlayHint.foreground": "#53585c",
 
     // Bracket Pairs
     "editorBracketHighlight.foreground1": "#cccccf",
