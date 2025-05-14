@@ -11,7 +11,7 @@
     "editor.selectionBackground": "#1b3139",
     "editorIndentGuide.background1": "#3d3d3d",
     "editorIndentGuide.activeBackground1": "#cccccf",
-    "editorWhitespace.foreground": "#ff2457",
+    "editorWhitespace.foreground": "#3b3b3b",
     "editorRuler.foreground": "#616161",
     "editorOverviewRuler.border": "#27292a",
     "editorInlayHint.background": "#34383800",
