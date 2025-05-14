@@ -16,6 +16,12 @@
     "editorOverviewRuler.border": "#27292a",
     "editorInlayHint.background": "#34383800",
     "editorInlayHint.foreground": "#53585c",
+    "panel.border": "#353736",
+    "editorGroup.border": "#353736",
+    "sideBar.border": "#353736",
+    "activityBar.border": "#353736",
+    "titleBar.border": "#353736",
+    "scrollbar.shadow": "#2e3130",
 
     // Bracket Pairs
     "editorBracketHighlight.foreground1": "#cccccf",
