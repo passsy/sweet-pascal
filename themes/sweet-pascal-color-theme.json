@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#222424",
-    "editor.foreground": "#e5e5e5",
+    "editor.foreground": "#eeeeee",
     "editorGutter.background": "#222424",
     "editorLineNumber.foreground": "#4a4a4a",
     "editor.lineHighlightBackground": "#171818",
@@ -85,7 +85,7 @@
       "name": "Default Text",
       "scope": ["source", "text", "variable.other.readwrite"],
       "settings": {
-        "foreground": "#e5e5e5"
+        "foreground": "#eeeeee"
       }
     },
     {
